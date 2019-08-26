@@ -6,7 +6,7 @@ main:
     url: https://google.com/apply
   - title: "Media"
     url: https://google.com/media
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Forum"
+    url: http://fivefx.forumotion.com/
   # - title: "Sitemap"
   #   url: /sitemap/
