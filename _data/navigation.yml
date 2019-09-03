@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /index/
+    url: http://fivefx.us.to
   - title: "About"
     url: https://google.com/about
   - title: "Apply"
