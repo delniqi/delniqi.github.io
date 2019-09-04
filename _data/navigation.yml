@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: http://fivefx.us.to
   - title: "About"
-    url: https://google.com/about
+    url: /about/
   - title: "Apply"
     url: https://google.com/apply
   - title: "Forum"
