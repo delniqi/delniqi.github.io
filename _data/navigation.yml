@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Apply"
-    url: https://google.com/apply
+    url: /apply/
   - title: "Forum"
     url: http://fivefx.forumotion.com/
   - title: "Media"
