@@ -3,14 +3,14 @@ main:
   - title: "Home"
     url: http://fivefx.us.to
   - title: "About"
-    url: /about/
+    url: /pages/about/
   - title: "Apply"
-    url: /apply/
+    url: /pages/apply/
   - title: "Forum"
     url: http://fivefx.forumotion.com/
   - title: "Media"
     url: https://google.com/media
   - title: "DKP"
-    url: /dkp/
+    url: /pages/dkp/
   # - title: "Sitemap"
   #   url: /sitemap/
