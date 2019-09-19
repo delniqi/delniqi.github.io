@@ -6,11 +6,11 @@ main:
     url: /pages/about/
   - title: "Apply"
     url: /pages/apply/
+  - title: "DKP"
+    url: /pages/dkp/
   - title: "Forum"
     url: http://fivefx.forumotion.com/
   - title: "Media"
     url: https://google.com/media
-  - title: "DKP"
-    url: /pages/dkp/
   # - title: "Sitemap"
   #   url: /sitemap/
