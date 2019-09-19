@@ -12,7 +12,7 @@ main:
     url: http://fivefx.forumotion.com/
   - title: "Media"
     url: /pages/media/
-   - title: "DKP"
-   url: /pages/dkp/
+  - title: "DKP"
+    url: /pages/dkp/
   # - title: "Sitemap"
   #   url: /sitemap/
